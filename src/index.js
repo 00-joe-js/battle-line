@@ -8,5 +8,16 @@ import {render} from "react-dom";
 
 const container = document.getElementById("app-start-container");
 
-render(<h1>Battle Line</h1>, container);
+import BaseComponentLibrary from "./base-components";
+
+const App = () => {
+    return (
+        <div id="battle-line">
+            <h1>Battle Line</h1>
+            <BaseComponentLibrary />
+        </div>
+    )
+};
+
+render(<App />, container);
 

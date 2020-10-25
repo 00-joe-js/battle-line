@@ -11,4 +11,4 @@ Access at `http://localhost:1234`.
 
 [Board Game Geek](https://boardgamegeek.com/boardgame/760/battle-line)
 
-Check out the `about-battle-line` directory for rulebook and maybe other things like original assets.
+Check out the [`about-battle-line`](https://github.com/joe-alves/battle-line/tree/master/about-battle-line) directory for rulebook and maybe other things like original assets.

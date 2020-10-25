@@ -12,9 +12,7 @@ export default ({ rank }) => {
             <section className="mu_image-section">
                 <img src={getImageUrlByRank(rank)} />
             </section>
-
             <section className="mu_bottom-container">
-
             </section>
         </div>
     );

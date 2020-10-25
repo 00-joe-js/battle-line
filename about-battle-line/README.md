@@ -2,7 +2,7 @@
 
 [Rules in 2 minutes](https://www.youtube.com/watch?v=hfX4daUghu0)
 
-[History of the game, review, and gameplay breakdown](https://www.youtube.com/watch?v=hfX4daUghu0)
+[_Rahdo_ runs through the history of the game and gameplay breakdown](https://www.youtube.com/watch?v=JpkeV_5jp1Y)
 
 ### Base game reference images
 

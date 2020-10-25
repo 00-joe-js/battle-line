@@ -8,8 +8,6 @@
 
 ### Extras
 
-[Re-theming example from BGG user](https://s3.amazonaws.com/geekdo-files.com/bgg63590?response-content-disposition=inline%3B%20filename%3D%22Fantasy_RPG_Battle_Line.pdf%22&response-content-type=application%2Fpdf&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFNCT7FKCE4O6TA%2F20201025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201025T014309Z&X-Amz-SignedHeaders=host&X-Amz-Expires=120&X-Amz-Signature=66e3a467f964a41b29901c2f1c2976c968d79db2d4c71544649c0704375bd548)
-
 [Very interesting deconstructed design for the game from BGG user](https://cf.geekdo-images.com/lEBtA-8btVRkkjmZJqEIwg__imagepage/img/pxfB_-lnoxobQslGRqn9XOqF3AI=/fit-in/900x600/filters:no_upscale():strip_icc()/pic499042.jpg)
 
 [Awesome Chinese Tactic cards](https://cf.geekdo-images.com/sbcumUzmUhyhitxz6ZuVdw__imagepage/img/nBcTDchREHgOEFUKfGKzu8pwZ8c=/fit-in/900x600/filters:no_upscale():strip_icc()/pic1021768.jpg)

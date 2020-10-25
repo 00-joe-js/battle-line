@@ -4,6 +4,8 @@
 
 [_Rahdo_ runs through the history of the game and gameplay breakdown](https://www.youtube.com/watch?v=JpkeV_5jp1Y)
 
+[Two chaps playing a game](https://www.youtube.com/watch?v=bynEZp1A3MQ)
+
 ### Base game reference images
 
 [Tabletop game state](https://cf.geekdo-images.com/w79F9jXGdzhFPSA2JdB2ng__imagepage/img/t_yeXcSNCBM754Y0QWvJx8Q8crk=/fit-in/900x600/filters:no_upscale():strip_icc()/pic839646.jpg)

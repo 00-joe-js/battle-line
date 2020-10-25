@@ -16,7 +16,7 @@ Check out the [`about-battle-line`](https://github.com/joe-alves/battle-line/tre
 
 # Technologies & Vision
 
-Parcel is module system as alternative to React. Will rever to webpack if it doesn't work out for hot module stuff but seems very good so far.
+Parcel is module system as alternative to Webpack. Will rever to webpack if it doesn't work out for hot module stuff but seems very good so far.
 
 Uses [SASS](https://sass-lang.com/) for CSS implementation, implemented by Parcel.
 

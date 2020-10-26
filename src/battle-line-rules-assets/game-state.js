@@ -19,13 +19,19 @@ const exampleGameState = {
         tacticsPlayed: [],
     },
     table: {
+        decks: {
+            troops: [/* IDs of troops left to draw */],
+            tactics: [/* IDs of tactics left to draw */],
+            // Decks on the table are never shuffled during the game
+            // and can only be manipulated by Scout tactic
+        },
         flags: [
             {
                 formations: {
                     player1: [100, 31, 33],
                     player2: []
                 },
-                resolved: null, // null or "1" or "2" for flag-owning player
+                owner: null, // "1" or "2" for flag-owning player, or null for unresolved flags
                 tacticsEffects: ["fog"], // also "mud", will most times be empty or property will be undefined
             }
         ]

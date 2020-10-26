@@ -22,5 +22,5 @@ Uses [SASS](https://sass-lang.com/) for CSS implementation, implemented by Parce
 
 React is front-end framework, other front-end tooling choices pending.
 
-This will be a CLIENT-only application, no server. I'm hoping that WebRTC works out for 2 people to find each other and make direct signals to eachother _without an intermediate server_. Will be interesting and fun to figure out how to keep game state valid and prevent cheating in this scenario.
+This will be a client-only application, with a Firebase data store to store and broadcast game state.
 

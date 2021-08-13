@@ -2,13 +2,12 @@
 import "./styles/index.scss";
 /*------------------------------*/
 
-
 import React from "react";
 import {render} from "react-dom";
 
 const container = document.getElementById("app-start-container");
 
-import BaseComponentLibrary from "./base-components";
+import BaseComponentLibrary from "./base-components/index";
 
 const App = () => {
     return (
